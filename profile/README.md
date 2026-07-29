@@ -3,7 +3,6 @@
 <div align="center">
   <img src="https://external-preview.redd.it/poland-cannot-into-html-space-v0-iF2Mish73a40hSYnCNopFmVwnBeydSfJLMvjmPHadd4.png?auto=webp&s=9d2411ce776afa16f707bbec833aa10f60b98c1a" width="250" height="320" alt="Cs-Brazil HTML tag meme" />
   <br/>
-  <i>Translating concepts, not words.</i>
 </div>
 
 ---
