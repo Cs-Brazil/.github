@@ -16,8 +16,6 @@ Our goal is simple: make Computer Science accessible to Brazilian devs by breaki
 * **1. Chapter-by-Chapter Breakdowns:** We take high-level CS books that lack PT-BR editions and explain their core concepts. We synthesize the material using our own words, analogies, and a practical approach.
 * **2. Goal-Oriented Learning Paths:** We use reference books (in any language) to build focused learning journeys. Example: *Using a comprehensive Linux book exclusively to extract and teach the necessary foundation for DevOps.*
 
----
-
 ### 🇧🇷 Nossa Missão
 
 Nosso objetivo é tornar a Ciência da Computação mais acessível para a comunidade brasileira, quebrando a barreira do idioma e criando trilhas de aprendizado diretas. Nós não fazemos tradução literal. Criamos conteúdo original e didático baseado em grandes obras para evitar problemas com direitos autorais e focar no que realmente importa: o aprendizado.
@@ -26,6 +24,24 @@ Nosso objetivo é tornar a Ciência da Computação mais acessível para a comun
 
 * **1. Descomplicando livros (com nossas palavras):** Pegamos livros avançados que não têm versão em PT-BR e explicamos a essência de cada capítulo. Zero tradução literal! Nós lemos, entendemos e repassamos o conhecimento com o nosso vocabulário, usando analogias e uma linguagem clara.
 * **2. Trilhas focadas na prática:** Usamos livros (em qualquer idioma) como base para ensinar um caminho específico. Exemplo: *extrair de um livro abrangente sobre Linux apenas o necessário para aprender DevOps.*
+
+---
+
+### 🙋 Por que isso não é "só peça pra uma IA"
+
+- ✅ Analogias testadas em pessoas reais que travaram no mesmo ponto que você
+- ✅ Erros corrigidos por revisor humano especialista no assunto
+- ✅ Código validado e rodado de verdade, não só "parece certo"
+- ✅ Contexto brasileiro (gírias técnicas, mercado, referências locais)
+- ✅ Comunidade viva: debate, correção e evolução constante do conteúdo
+- ✅ Explicar pra outra pessoa é difícil, o que te obriga a 
+      criar novas conexões e encarar dúvidas que você nunca tinha pensado 
+     (é o Método Feynman)
+
+> ♟️ **Assim como no xadrez**, A IA supera qualquer ser humano há anos mas 
+> as pessoas continuam assistindo campeonatos entre humanos porque
+> o objetivo não é competir contra uma IA, é um guia de aprendizado real
+> mostrando erros, evoluções e desafios, tudo voltado ao ensino de pessoa para pessoa.
 
 ---
 
@@ -39,6 +55,7 @@ Cada repositório no **Cs-Brazil** representa um livro ou uma trilha. Para mante
 │
 ├── 📂 Capitulo-01-Nome-do-Capitulo/
 │   ├── 📄 README.md (Sua explicação autoral e didática do capítulo)
+│   ├── 📄 Dario-de-Estudo.md
 │   ├── 📂 assets/ (Diagramas e imagens EXCLUSIVAS deste capítulo)
 │   └── 📂 exercicios/
 │       ├── 📄 questao-01.md (Sua resolução autoral)
@@ -46,13 +63,21 @@ Cada repositório no **Cs-Brazil** representa um livro ou uma trilha. Para mante
 │
 ├── 📂 Capitulo-02-Nome-do-Capitulo/
 │   ├── 📄 README.md (Sua explicação autoral e didática do capítulo)
+│   ├── 📄 Dario-de-Estudo.md
 │   ├── 📂 assets/
 │   └── 📂 exercicios/
 │       └── 📄 questao-01.md
 │
 └── 📂 assets/ (Opcional: Apenas para a capa da trilha/livro no README principal)
 ```
+---
 
+### 📓 Diário de Estudo (Diferencial)
+
+- **Onde eu travei**
+- **O que pesquisei além do livro**
+- **Analogia que me ajudou a entender**
+- **O que errei**
 ---
 
 ### 🌈 Como Contribuir
@@ -97,3 +122,9 @@ Para garantir que a qualidade técnica continue alta e não deixar passar erros,
 * **Aprovação:** Dar o *Approve* para que o conteúdo possa ser integrado à branch principal.
 
 👉 **Tem experiência em algum assunto e quer ajudar?** Abra uma *Issue* no repositório principal com o título `[REVISOR] Seu Nome - Sua Área` (exemplo: `[REVISOR] Ana - Rust / Sistemas Distribuídos`) informando em qual tópico você pode contribuir com revisões.
+
+### 💬 Discussão Aberta
+
+Toda explicação pode e deve ser questionada. Abra uma Issue com a tag 
+`discussão` se tiver analogia melhor, achar algo confuso, ou discordar 
+de algo.
