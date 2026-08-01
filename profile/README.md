@@ -72,6 +72,34 @@ Cada repositório no **Cs-Brazil** representa um livro ou uma trilha. Para mante
 ```
 ---
 
+### 📝 Exercícios
+
+Não entregue apenas o exercício resolvido, sendo um baita diferencial 
+explicar sua lógica, seu raciocínio, os caminhos que você tentou e descartou.
+Isso ajuda a praticar a metacognição, a capacidade de refletir sobre seu 
+próprio raciocínio.
+A resposta do exercício é tão importante quanto o caminho para chegar nele.
+
+**Template sugerido para cada questão:**
+
+```text
+Questão 01
+
+**Resposta:**
+[sua solução]
+
+**Meu raciocínio:**
+[como você pensou, o que tentou antes de chegar na solução]
+
+**Onde eu errei/travei:**
+[caminhos errados, dúvidas no meio do processo]
+```
+
+Se o livro não tiver exercícios, você pode criar os seus próprios, ou 
+pedir para uma IA gerar os exercícios.
+
+---
+
 ### 📓 Diário de Estudo (Diferencial)
 
 - **Onde eu travei**
