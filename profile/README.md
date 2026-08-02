@@ -64,7 +64,7 @@ no que realmente importa: o aprendizado .
 
 ---
 
-### 🗂️ Estrutura dos Repositórios (De Livros)
+### 🗂️ Estrutura dos Repositórios (Livros)
 
 Cada repositório no **Cs-Brazil** representa um livro, uma trilha ou um projeto. Para manter a organização e facilitar a navegação, o formato padrão é este:
 
@@ -92,7 +92,7 @@ Cada repositório no **Cs-Brazil** representa um livro, uma trilha ou um projeto
 
 ---
 
-### 🗂️ Estrutura dos Repositórios (Dos projetos seus ou de terceiros)
+### 🗂️ Estrutura dos Repositórios (Projetos)
 
 Cada repositório de projeto no **Cs-Brazil** representa a explicação didática 
 de um projeto real, seu ou de terceiros (com licença adequada). O formato 
@@ -198,7 +198,7 @@ Para que a iniciativa dure e não tenhamos problemas legais com direitos autorai
 6. **🧠 Revisão humana obrigatória:** O uso de IA (ChatGPT, Claude, etc.) é permitido para ajudar na estruturação, mas você deve ler, validar e revisar. PRs com textos robóticos, alucinações de IA ou explicações superficiais serão recusados.
 7. **🔒 Cuidado com dados sensíveis:** Ao enviar exemplos práticos ou exercícios, verifique se não deixou passar chaves de API, tokens ou senhas reais por engano.
 8. **📜 Projetos de terceiros:** Se for explicar um projeto que não é seu, verifique a licença antes (MIT, Apache, GPL, etc. costumam permitir; projetos sem licença clara ou com licença restritiva, não). Sempre credite o projeto e o autor original.
-9. **📋 Conhecimentos Prévios obrigatórios:** Todo repositório de projeto (Pilar 3 - 'Estrutura dos Repositórios (Dos projetos seus ou de terceiros)') deve ter, no README principal, uma seção listando o que o leitor precisa saber antes de começar (linguagem, conceitos teóricos, ferramentas). Isso evita frustração de quem entra sem a base necessária.
+9. **📋 Conhecimentos Prévios obrigatórios:** Todo repositório de projeto (Pilar 3 - 'Estrutura dos Repositórios (Projetos)') deve ter, no README principal, uma seção listando o que o leitor precisa saber antes de começar (linguagem, conceitos teóricos, ferramentas). Isso evita frustração de quem entra sem a base necessária.
 
 
 > ⚠️ **Atenção:** Qualquer PR que contiver PDF pirata, cópia literal de texto ou vazamento de credenciais será fechado imediatamente. Nosso objetivo é proteger a comunidade e manter o repositório no ar.
@@ -225,4 +225,3 @@ Para garantir que a qualidade técnica continue alta e não deixar passar erros,
 Toda explicação pode e deve ser questionada. Abra uma Issue com a tag 
 `discussão` se tiver analogia melhor, achar algo confuso, ou discordar 
 de algo.
-hsjkhfg
