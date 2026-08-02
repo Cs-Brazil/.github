@@ -64,6 +64,25 @@ no que realmente importa: o aprendizado .
 
 ---
 
+### 🎲 Incentivos Econômicos: Por que Trapacear Não Compensa
+
+Pense no esforço de quem tentar trapacear usando só IA, sem estudar de verdade:
+
+1. Pegar o conteúdo pronto de uma IA, além de gastar energia gerando prompts
+2. Criar e formatar o repositório (estrutura, README, pastas)
+3. Inventar um Diário de Estudo e um raciocínio de exercício convincentes
+4. Gerenciar o PR, responder revisão, corrigir se for recusado
+5. Correr o risco real de um revisor humano perceber que o texto é 
+   genérico ou robótico (regra 6) e ter o PR fechado.
+
+No final desse processo todo, a pessoa gastou tempo e energia... e 
+**ainda não aprendeu nada de verdade**. O esforço pra fingir é quase 
+igual ao esforço de estudar de verdade, só que sem o benefício.
+
+> 🧠 Fingir um Diário de Estudo convincente dá quase o mesmo trabalho que realmente estudar. Trapaceando não tem nenhum beneficio nenhum.
+
+---
+
 ### 🗂️ Estrutura dos Repositórios (Livros)
 
 Cada repositório no **Cs-Brazil** representa um livro, uma trilha ou um projeto. Para manter a organização e facilitar a navegação, o formato padrão é este:
