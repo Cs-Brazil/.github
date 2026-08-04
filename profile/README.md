@@ -153,14 +153,15 @@ Antes de iniciar um trabalho grande, abra uma Issue para evitar esforços duplic
 
 ## 📚 Documentação
 
-| Documento                   | Conteúdo                           |
-|:-----------------------------|:-------------------------------------|
-| `CONTRIBUTING.md`           | Guia completo para contribuir      |
-| `COPYRIGHT.md`              | Direitos autorais, IA e licenças   |
-| `CODE_OF_CONDUCT.md`        | Código de conduta da comunidade    |
-| `docs/learning.md`          | Diário de Estudo e metodologia     |
-| `docs/repository-layout.md` | Estrutura oficial dos repositórios |
-| `docs/reviewers.md`         | Como funciona a revisão técnica    |
+| Documento                   | Descrição                                                                        |
+| :-------------------------- | :------------------------------------------------------------------------------- |
+| `CONTRIBUTING.md`           | Como contribuir para a comunidade, abrir Issues e enviar Pull Requests.          |
+| `COPYRIGHT.md`              | Diretrizes sobre direitos autorais, licenças, projetos de terceiros e uso de IA. |
+| `CODE_OF_CONDUCT.md`        | Regras de convivência e comportamento da comunidade.                             |
+| `docs/learning.md`          | A filosofia de aprendizado da Cs-Brazil e o papel do Diário de Estudo.           |
+| `docs/repository-layout.md` | Estrutura oficial dos repositórios de Livros, Trilhas e Projetos.                |
+| `docs/writing-guide.md`     | Boas práticas para escrever conteúdo técnico claro, didático e autoral.          |
+| `docs/reviewers.md`         | Responsabilidades dos revisores e como funciona o processo de revisão.           |
 
 ---
 
